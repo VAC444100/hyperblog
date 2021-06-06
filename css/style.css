@@ -5,7 +5,12 @@ body {
     background-color: black;
 }
 
-div {
+.header {
+    color: black;
+    background-color: white;
+}
+
+.footer {
     color: black;
     background-color: white;
 }
